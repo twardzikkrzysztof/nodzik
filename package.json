@@ -11,7 +11,7 @@
   "author": "MarcinDl <marcindl@hotmail.com> (http://www.softlab.mem)",
   "license": "ISC",
   "devDependencies": {
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.7",
     "nodemon": "^2.0.2"
   },
   "dependencies": {
